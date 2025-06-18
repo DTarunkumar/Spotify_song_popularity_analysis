@@ -85,3 +85,4 @@ This will open Jupyter in your browser. Now:
 
 - Open **`EDA.ipynb`**  
   ➤ Run this notebook to explore the dataset, visualize patterns, and perform regression analysis.
+# Spotify_song_popularity_analysis
